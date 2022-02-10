@@ -2,7 +2,7 @@ altgraph==0.16.1
 beautifulsoup4==4.8.1
 certifi==2019.9.11
 chardet==3.0.4
-Django==2.2.5
+Django==2.2.27
 django-taggit==1.1.0
 future==0.17.1
 idna==2.8
